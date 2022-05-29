@@ -1,3 +1,3 @@
 # SampleDesktopAutomation
 
-This is just a layout of Desktop Automation. It will not build/Compile. 
+Small POC to automate a sample Desktop based application using WinAppDriver, C# and NUNIT. (Not a Framework)
